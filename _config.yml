@@ -56,6 +56,13 @@ sass:
   sass_dir: _sass
   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
+################
+# --- Misc --- #
+################
+
+# Ruby Date Format to show dates of posts
+date_format: "%-d/%B/%Y"
+
 # Outputting
 permalink: /:categories/:title/
 # timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones

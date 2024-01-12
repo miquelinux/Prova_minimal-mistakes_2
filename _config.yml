@@ -10,7 +10,7 @@ remote_theme: "mmistakes/jekyll-theme-basically-basic"
 # Site Settings
 lang: en-US
 title: MiqueLinux
-email: dugan.nash@mailinator.com
+email: miquelinux@gmail.com
 description: "Your new default Jekyll theme with search powered by Algolia"
 baseurl: "/Prova_minimal-mistakes_2"
 url: "https://miquelinux.github.io"
@@ -19,8 +19,8 @@ author:
   name: Dugan Nash
   twitter: Towlette_Pettetucci
   picture: https://api.adorable.io/avatars/285/johndoe.png
-twitter_username: Towlette_Pettetucci
-github_username: Towlette_Pettetucci
+twitter_username: miquel_chicano
+github_username: miquelinux
 logo: /assets/icons/basically-basic-logo-light.svg
 google_analytics:
 disqus:
